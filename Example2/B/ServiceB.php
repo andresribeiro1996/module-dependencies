@@ -1,6 +1,5 @@
 <?php
 
-
 class ServiceB implements ServiceBInterface
 {
     public function __construct() {
